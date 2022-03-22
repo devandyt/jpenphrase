@@ -58,6 +58,7 @@ const config = {
             label: 'Dictionary',
             position: 'left',
           },
+          
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',

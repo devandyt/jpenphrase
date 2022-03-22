@@ -72,6 +72,63 @@ Sue saw a movie.    =   sue-san wa eiga o mimashita
 ```
 
 ### Possessive Particle
+The particle `no` shows that something belongs to someone.  It's like the English posessive `'s` (poss):
+```
+Mr Tanaka's car       =   tanaka-san no kuruma
+                          (lit: Takaka-Mr-no poss car)
+my book               =   watashi no hon
+                          (lit: I-no book)
+the Australian flag   =   oosutoraria no hata
+                          (lit: Australia-no flag)
+schoolteacher         =   gakkou no sensei
+                          (lit: school-no teacher)
+```
+
+### `Ni` Particle
+The partcile `ni` is used in three different ways:
+1. the year/month/day or time
+  ```
+  on Tuesday        =     kayou-bi ni
+                          (lit: Tuesday ni)
+  at three o'clock  =     san-ji ni
+                          (lit: Japan:ni)
+  in 2001           =     sen kyuu hyaku hachi juunana ni
+                          (lit: 2001 ni)
+  ```
+2. where something is
+  ```
+  at home           =     uchi ni
+                          (lit: home-ni)
+  in Japan          =     nihon ni
+                          (lit: Japan-ni)
+  ```
+3. destination
+  ```
+  (I'm going to Japan)  =   nihon ni ikimasu
+                            (lit: Japan-ni to go)
+  ```
+
+### Direction Particle
+The particle `e` indicates direction.  It's very similar to the destination function of `ni
+```
+to Tokyo    =   toukyou e
+                (lit: Tokyo-e towards)
+```
+
+### `De` Particle
+The particle `de` is used in two different ways
+1. where something happens or happened
+  ```
+  I'll make a call at the hotel.    =   hoteruu de denwa shimasu
+                                        (lit: hotel-de telephone do)
+  ```
+2. the means or instrument used to accomplish the verb
+  ```
+  (I'm) going by train.   =   densha de ikimasu
+                              (lit: train-de go)
+  Please write in pen.    =   pen de kaite judasai
+                              (lit: pen-de write please)
+  ```
 
 ## Nouns
 
