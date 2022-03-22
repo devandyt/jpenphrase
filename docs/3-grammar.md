@@ -16,7 +16,7 @@ sidebar_position: 3
   - `this book bought`
 ```
 I bought this book.  =   (watashi ga) kono hon o kaimashita
-                        (lit: I-ga this book-o bought)
+                         (lit: I-ga this book-o bought)
 ```
 
 ## Articles
